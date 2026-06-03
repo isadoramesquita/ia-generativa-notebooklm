@@ -1,14 +1,23 @@
-📚 Entendendo IA Generativa: Conceitos e Aplicações
+# 📚 Entendendo IA Generativa: Conceitos e Aplicações
+Projeto desenvolvido no NotebookLM como parte do desafio da DIO, explorando conceitos, aplicações, riscos, governança e técnicas avançadas de Inteligência Artificial Generativa.
+
+## 📑 Sumário
+- [Sobre o Projeto](#-sobre-o-projeto)
+- [Objetivos de Aprendizagem](#-objetivos-de-aprendizagem)
+- [Fontes Utilizadas](#-fontes-utilizadas)
+- [Engenharia de Prompts](#-engenharia-de-prompts)
+- [Cicatrizes e Troubleshooting](#️-cicatrizes-e-troubleshooting)
+- [Miniguia de Estudos](#-miniguia-de-estudos)
+- [Glossário](#-glossário)
+- [Prompts Reutilizáveis](#-prompts-reutilizáveis)
+- [Conclusão](#-conclusão)
+  
 🎯 Sobre o Projeto
-
 Este projeto foi desenvolvido como parte do desafio da DIO para explorar o uso da Inteligência Artificial como ferramenta de aprendizagem ativa através do NotebookLM.
-
 O tema escolhido foi Inteligência Artificial Generativa, com foco na compreensão dos conceitos fundamentais, arquiteturas, aplicações práticas, riscos, governança e impactos em diferentes setores da economia.
-
 O objetivo é consolidar conhecimentos sobre IA Generativa por meio da curadoria de conteúdos, experimentação com prompts e construção de um guia de estudos reutilizável.
 
 🎯 Objetivos de Aprendizagem
-
 Ao final deste estudo, busquei compreender:
 
 O que é Inteligência Artificial Generativa;
@@ -115,6 +124,27 @@ Fundamentos de LLMs;
 RAG (Retrieval-Augmented Generation);
 Agentes de IA;
 Boas práticas para desenvolvimento de soluções baseadas em IA Generativa.
+
+# 📸 Evidências
+
+## Notebook criado no NotebookLM
+
+O caderno temático foi desenvolvido utilizando o NotebookLM com foco no estudo de Inteligência Artificial Generativa, reunindo fontes em texto e vídeo para exploração dos conceitos, aplicações práticas, riscos, governança e técnicas de engenharia de prompts.
+
+### Visão geral do projeto
+
+![NotebookLM](./images/notebooklm.png)
+
+### Consultas realizadas
+
+Durante o estudo, foram realizadas perguntas estratégicas como:
+
+- Quais são as principais limitações e riscos da IA Generativa?
+- Como utilizar RAG para reduzir alucinações?
+- Como as alucinações afetam a segurança de dados corporativos?
+- Como a IA Generativa pode transformar os setores de saúde e finanças?
+- Quais as diferenças entre RAG, Fine-Tuning e Agentes de IA?
+  
 📌 Critérios de Curadoria
 
 As fontes foram selecionadas com base nos seguintes critérios:
@@ -339,6 +369,17 @@ Aplicação Prática
 Apresente exemplos reais de aplicação de [TEMA] em empresas.
 Revisão
 Crie 10 perguntas e respostas para revisar o tema estudado.
+
+# 🚀 Competências Desenvolvidas
+
+- Curadoria de conteúdo
+- Inteligência Artificial Generativa
+- Engenharia de Prompts
+- Pensamento Crítico
+- Pesquisa Técnica
+- Síntese de Conhecimento
+- Governança em IA
+- Documentação Técnica
 
 ✅ Conclusão
 A Inteligência Artificial Generativa está transformando a forma como pessoas e organizações produzem conhecimento, automatizam processos e criam soluções inovadoras. No entanto, sua adoção exige equilíbrio entre inovação, segurança, governança e supervisão humana.
